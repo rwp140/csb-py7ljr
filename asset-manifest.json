@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rwp140.github.io/csb-py7ljr/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://rwp140.github.io/csb-py7ljr/static/js/main.677030e6.chunk.js",
+    "main.js.map": "https://rwp140.github.io/csb-py7ljr/static/js/main.677030e6.chunk.js.map",
+    "runtime-main.js": "https://rwp140.github.io/csb-py7ljr/static/js/runtime-main.f4edcd1b.js",
+    "runtime-main.js.map": "https://rwp140.github.io/csb-py7ljr/static/js/runtime-main.f4edcd1b.js.map",
+    "static/js/2.f5a10e6a.chunk.js": "https://rwp140.github.io/csb-py7ljr/static/js/2.f5a10e6a.chunk.js",
+    "static/js/2.f5a10e6a.chunk.js.map": "https://rwp140.github.io/csb-py7ljr/static/js/2.f5a10e6a.chunk.js.map",
+    "index.html": "https://rwp140.github.io/csb-py7ljr/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://rwp140.github.io/csb-py7ljr/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.f5a10e6a.chunk.js.LICENSE.txt": "https://rwp140.github.io/csb-py7ljr/static/js/2.f5a10e6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4edcd1b.js",
+    "static/js/2.f5a10e6a.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.677030e6.chunk.js"
+  ]
+}
